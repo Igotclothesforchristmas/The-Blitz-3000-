@@ -4,7 +4,7 @@ An artificial intelligence (actually a bit stupid) that will help you in prodigy
 <h1 align="center">
   <img src="url/to/3d_logo.png" alt="Project Logo" width="200px">
   <br>
-  Project Name
+ Blitz 3000
 </h1>
 
 <!-- 3D Glowing Image -->
