@@ -17,12 +17,15 @@ An artificial intelligence (actually a bit stupid) that will help you in prodigy
   <a href="https://github.com/Igotclothesforchristmas/The-Blitz-3000-/blob/main/The%20blitz%203000" style="text-decoration: none; margin: 10px;">
     <img src="
 " alt="Feature 1" width="150px">
+     <h2 align="center">Advertisement</h2> 
   </a>
   <a href="link/to/feature2" style="text-decoration: none; margin: 10px;">
     <img src="url/to/button2.png" alt="Feature 2" width="150px">
+     <h2 align="center">Instructions</h2> 
   </a>
   <a href="link/to/feature3" style="text-decoration: none; margin: 10px;">
     <img src="url/to/button3.png" alt="Feature 3" width="150px">
+      <h2 align="center">Profile</h2> 
   </a>
 </p>
 
