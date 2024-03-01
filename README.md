@@ -2,15 +2,10 @@
 An artificial intelligence (actually a bit stupid) that will help you in prodigy!
 <!-- Name -->
 <h1 align="center">
-  <img src="url/to/3d_logo.png" alt="Project Logo" width="200px">
+  <img src="IMG_0028.png" alt="Blitz" width="200px">
   <br>
  Blitz 3000
 </h1>
-
-<!-- Image -->
-<p align="center">
-  <img src="url/to/3d_glowing_image.gif" alt="3D Glowing Image">
-</p>
 
 <!-- Buttons -->
 <p align="center">
