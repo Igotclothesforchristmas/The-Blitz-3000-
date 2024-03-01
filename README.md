@@ -27,27 +27,10 @@ An artificial intelligence (actually a bit stupid) that will help you in prodigy
   </a>
 </p>
 
-<!-- Table of Contents -->
-<h2 align="center">Table of Contents</h2>
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#contributing">Contributing</a> •
-  <a href="#license">License</a>
-</p>
-
 <!-- Features Section -->
 <h2 align="center">Features</h2>
 
-- **Feature 1:** A brief description of the first feature.
-- **Feature 2:** Another mind-blowing feature explained concisely.
-- **Feature 3:** Cutting-edge technology integrated for maximum impact.
+- **Feature 1:** An advertisment for the blitz 3000 showing off some of its features.
+- **Feature 2:** Instructions on how to work the blitz 3000.
+- **Feature 3:** A redirect to my profile to see my other dumbass projects (this is my first real one kinda).
 
-<!-- Installation Section -->
-<h2 align="center">Installation</h2>
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/project-name.git
-   cd project-name
