@@ -21,7 +21,7 @@ An artificial intelligence (actually a bit stupid) that will help you in prodigy
   </a>
 </p>
 <p align="center">
-  <a href="link/to/feature3" style="text-decoration: none; margin: 10px;">
+  <a href="https://github.com/Igotclothesforchristmas" style="text-decoration: none; margin: 10px;">
     <img src="IMG_0027.png" alt="Feature 3" width="150px">
       <h2 align="center">Profile</h2> 
   </a>
